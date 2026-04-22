@@ -1,0 +1,8 @@
+2026-04-22 19:33:39,295 - INFO - Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1776866619294}
+2026-04-22 19:33:40,036 - INFO - Response: {'code': -2014, 'msg': 'API-key format invalid.'}
+2026-04-22 19:38:22,480 - INFO - Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1776866902479}
+2026-04-22 19:38:23,178 - INFO - Response: {'code': -2014, 'msg': 'API-key format invalid.'}
+2026-04-22 19:43:29,811 - INFO - Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1776867209810}
+2026-04-22 19:43:30,397 - INFO - Response: {'code': -2014, 'msg': 'API-key format invalid.'}
+2026-04-22 19:45:01,097 - INFO - Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1776867301097}
+2026-04-22 19:45:01,927 - INFO - Response: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'}
